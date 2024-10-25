@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>layout Html 5</title>
+    <style>
+     section{
+     margin-bottom: 20x;
+     text-align: justify
+     }
+     .g1{
+      height: 20px;
+      margin-left: 2px;
+      border: 2px solid black;
+     }
+    
+   </style>
+  </head>
+  <body>
+    <fieldset style="margin: 0px 250px;">
+      <legend>Directory Profile Page</legend>
+      <header>
+        <div style="display: flex; justify-content: space-between">
+          <div style="border: 2px solid black; padding:10px; margin-left:20px">
+              <img src="taeyon.jpeg" alt="image" height="200" width="170">
+          </div>
+      <div style="margin: 0px 70px 0px 20px;">
+        <h1>Profile Name</h1>
+        <h3>Kim Taeyeon</h3>
+        <p>Tanggal Lahir : 9 Maret 1989</p>
+        <p>Pekerjaan : Penyanyi</p>
+        <p>Agensi : <a href="https://www.smentertainment.com/en/">SMEntertainment</a></p>
+      </div>
+      <div style="text-align: right;">
+        <h3><u>Sosmed</u></h3>
+        <p>Instagram</p>
+        <p>Facebook</p>
+        <p>X</p>
+      </div>
+      </header>
+      <main style="padding: 30px;">
+        <article>
+          <section>
+            Kim Tae Yeon (lahir 9 Maret 1989), lebih dikenal sebagai Taeyeon, adalah penyanyi asal Korea Selatan. Ia debut sebagai anggota dari grup penyanyi perempuan Korea Selatan, Girls' Generation pada tahun 2007 setelah menjalani pelatihan selama 3 tahun. Di proyek S.M. Entertainment, Girls' Generation-TTS, SM The Ballad, Oh!GG dan GOT the Beat.
+          </section>
+          <section>
+            Pada Oktober 2015, ia membuat debutnya sebagai penyanyi solo dengan album mini pertamanya, I. Album ini memuncak di nomor dua di Gaon Album Chart serta menghasilkan singel dengan nama yang sama, yang juga memuncaki Gaon Digital Chart dan telah terjual lebih dari 1 juta kopi. Album mini keduanya, Why berada di nomor satu di Gaon Album Chart serta menghasilkan dua lagu sepuluh besar Korea Selatan, "Starlight" dan "Why".Setelah debut, ia dianugerahi Best Female Artist di Mnet Asian Music Awards. Gallup Korea menempatkannya di peringkat ketiga sebagai artis paling populer pada tahun 2015 dan Forbes Korea yang memasukkannya ke dalam daftar "Top 40 Most Powerful Celebrities" pada tahun 2016. Taeyeon terkenal karena kemampuan vokalnya: ia terpilih dalam survei oleh 40 industri musik sebagai vokalis K-pop terbaik pada Oktober 2015, dan sebagai vokalis wanita terbaik oleh 20 perusahaan musik pada April 2016. Pada 2016, Gallup Korea menempatkannya sebagai penyanyi paling populer pada tahun 2016, tahun sebelumnya ia berada di peringkat ketiga.
+          </section>
+<p>
+Setelah debut, ia dianugerahi Best Female Artist di Mnet Asian Music Awards. Gallup Korea menempatkannya di peringkat ketiga sebagai artis paling populer pada tahun 2015 dan Forbes Korea yang memasukkannya ke dalam daftar "Top 40 Most Powerful Celebrities" pada tahun 2016. Taeyeon terkenal karena kemampuan vokalnya: ia terpilih dalam survei oleh 40 industri musik sebagai vokalis K-pop terbaik pada Oktober 2015, dan sebagai vokalis wanita terbaik oleh 20 perusahaan musik pada April 2016. Pada 2016, Gallup Korea menempatkannya sebagai penyanyi paling populer pada tahun 2016, tahun sebelumnya ia berada di peringkat ketiga.
+          </p>
+        </article>
+      </main>
+      <footer>
+        <div style="display: flex; justify-content:center;">
+          <fieldset>
+            <legend>Youtube Embed</legend>
+            <iframe width="200" height="150" src="https://www.youtube.com/embed/NHXUM-6a3dU?si=5pkzxNjNn6Jdh5bN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </fieldset>
+          <fieldset>
+            <legend>Artikel</legend>
+            <div style="display: flex; justify-content:center;"></div>
+            <a href="https://www.idntimes.com/hype/entertainment/kardita-rida/profil-lengkap-taeyeon-snsd-c1c2"></a>
+            <img src="taeyeon 2.jpeg" width="200" alt="Thumbnail" class="1">
+          </fieldset>
+        </div>
+      </footer>
+    </fieldset>
+  </body>
+  
+</html>
